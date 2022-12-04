@@ -7,6 +7,7 @@ use unidbg to emulate dy 23.3.0 for X-Medusa and X-Helios
 3. place "dy233.apk" in the relative directory "unidbg-android/src/test/resources/dy233"
 4. place "Sign6.java" in the relative directory "unidbg-android/src/test/java/com/ss/android/ugc/aweme"
 5. remove the code ```vm.checkVersion(version)``` from the relative path "unidbg-android/src/main/java/com/github/unidbg/linux/android/dvm/DalvikModule.java"
+6. place "exe" in the relative directory "unidbg-android/src/main/resources/android/sdk23/proc/self"
 6. execute the main function of Sign6.java
 
 ## example
