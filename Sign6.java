@@ -114,7 +114,7 @@ public class Sign6 extends AbstractJni {
     }
 
     public static void main(String[] args) {
-        String s1 = "https://ichannel.snssdk.com/service/2/app_alert_check/?ac=wifi&channel=shenmasem_ls_dy_210&aid=1128&app_name=aweme&version_code=220700&version_name=22.7.0&device_platform=android&os=android&ssmix=a&device_type=Pixel&device_brand=google&language=zh&os_api=27&os_version=8.1.0&openudid=b104cd40fd2b3224&manifest_version_code=220701&resolution=1080*1794&dpi=420&update_version_code=22709900&_rticket=1670126182805&package=com.ss.android.ugc.aweme&cpu_support64=true&host_abi=armeabi-v7a&is_guest_mode=0&app_type=normal&minor_status=0&appTheme=light&need_personal_recommend=1&is_android_pad=0&ts=1670126133&cdid=26ed513b-3f69-440f-ba7d-4b53f333e88c&md=0&iid=4072246474186391&device_id=3122268427780248&uuid=352531081299354";
+        String s1 = "https://ichannel.snssdk.com/service/2/app_alert_check/?ac=wifi&channel=shenmasem_ls_dy_210&aid=1128&app_name=aweme&version_code=230300&version_name=23.3.0&device_platform=android&os=android&ssmix=a&device_type=Pixel&device_brand=google&language=zh&os_api=27&os_version=8.1.0&openudid=b104cd40fd2b3224&manifest_version_code=230301&resolution=1080*1794&dpi=420&update_version_code=23309900&_rticket=1670126182805&package=com.ss.android.ugc.aweme&cpu_support64=true&host_abi=armeabi-v7a&is_guest_mode=0&app_type=normal&minor_status=0&appTheme=light&need_personal_recommend=1&is_android_pad=0&ts=1670126133&cdid=26ed513b-3f69-440f-ba7d-4b53f333e88c&md=0&iid=4072246474186391&device_id=3122268427780248&uuid=352531081299354";
         String s2 = "x-ss-req-ticket\r\n"+
                 "1646193928088\r\n"+
                 "personal-recommend-status\r\n"+
